@@ -1,4 +1,4 @@
-## Hi, I'm Varsh 👋
+## Hi, I'm Varshit 👋
 
 Quality Assurance Engineer with hands-on experience in automation testing, API validation, and enterprise-scale QA practices.  
 Focused on delivering reliable, efficient software through well-designed test automation and continuous improvement.
